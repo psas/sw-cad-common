@@ -1,0 +1,1 @@
+"C:\Program Files\SolidWorks Corp\SolidWorks (2)\Simulation\CWANALYSISPROC.exe" 0 0 0 0 0 0 2360 "C:\Program Files\SolidWorks Corp\SolidWorks (2)\Simulation\STAR.exe"   -silent "C:\Documents and Settings\Unknown\My Documents\Dropbox\PSAS\Solidworks\Pull_Tester_Crane\Lower_Cross_Bar-Study 1"

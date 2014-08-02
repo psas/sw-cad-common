@@ -1,0 +1,8 @@
+Running batch analysis
+
+Performing Diagnostics
+Start study: Study 1 Saturday, August 27, 2011 12:05:14 PM
+End study: Study 1 Saturday, August 27, 2011 12:05:14 PM
+
+Performing Analysis
+Start study: Study 1 Saturday, August 27, 2011 12:05:14 PM
