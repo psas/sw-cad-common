@@ -3,7 +3,7 @@ sw-cad-common
 
 Solid Works CAD common files for PSAS
 
-=== PSAS Solidworks setup and use procedures
+_PSAS Solidworks setup and use procedures_
 
  1. Quickly read the "Getting Started" guide for the github windows client. https://help.github.com/articles/getting-started-with-github-for-windows
  1. Download and install the github windows client: https://windows.github.com/
