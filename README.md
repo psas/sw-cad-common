@@ -23,5 +23,7 @@ sw-cad-common
        1. Close solidworks and save your changes
        1. Open the github windows client.
        1. For each repository that you made changes to, click the repository. Git hub will identify the files that you have changed. Skim the list and confirm that the list of files looks reasonable (uncheck anything thats not necessary). There is a "commit message" box, type a brief summary of the changes you made, and then click the "commit" button. Next, click the "sync" button in the upper right, and the github windows client will pull and push your changes to the github servers. **Note:** Make sure to do this for all the repos that you have made changes in.
-
-
+ 1. To add Solidworks templates 
+    1. Go to Tools > Options... > System Options > File Locations 
+    1. Select Document Templates from the drop down menu
+    1. Click Add and select the "PSAS TEMPLATES" folder in the downloaded copy of this repository
